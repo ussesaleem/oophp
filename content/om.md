@@ -21,8 +21,6 @@ Om
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
 
-Skriv några kloka ord om kursen?
+Dags för oophp och börja knyta ihop säcken med att lära sig använda allt som har studerats under tidigare kurser!
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/bag.jpeg?w=740&f1=colorize,0,30,0,0 caption="I en kurs som avslutar första året så är det dags att knyta ihop säcken."]
