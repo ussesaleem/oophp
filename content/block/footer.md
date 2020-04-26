@@ -1,1 +1,1 @@
-Copyright 2020 Usama Saleem
+Copyright &copy; 2020 Usama Saleem
